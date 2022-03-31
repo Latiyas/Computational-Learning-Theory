@@ -32,6 +32,7 @@
 1. Bousquet O, Boucheron S, Lugosi G. **Introduction to statistical learning theory**[C]//Summer school on machine learning. Springer, Berlin, Heidelberg, 2003: 169-207. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.2036&rep=rep1&type=pdf)
 1. Maurer A, Pontil M. **Empirical Bernstein bounds and sample variance penalization**[J]. arXiv preprint arXiv:0907.3740, 2009. [paper](https://arxiv.org/pdf/0907.3740.pdf)
 1. He K, Chen X, Xie S, et al. **Masked autoencoders are scalable vision learners**[J]. arXiv preprint arXiv:2111.06377, 2021. [paper](https://arxiv.org/pdf/2111.06377.pdf)
+1. Shalev-Shwartz S, Ben-David S. **Understanding machine learning: From theory to algorithms**[M]. Cambridge university press, 2014. [book](http://103.47.12.35/bitstream/handle/1/1069/understanding-machine-learning-theory-algorithms.pdf)
 
 
 
