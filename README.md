@@ -33,10 +33,12 @@
 1. Maurer A, Pontil M. **Empirical Bernstein bounds and sample variance penalization**[J]. arXiv preprint arXiv:0907.3740, 2009. [paper](https://arxiv.org/pdf/0907.3740.pdf)
 1. He K, Chen X, Xie S, et al. **Masked autoencoders are scalable vision learners**[J]. arXiv preprint arXiv:2111.06377, 2021. [paper](https://arxiv.org/pdf/2111.06377.pdf)
 1. Shalev-Shwartz S, Ben-David S. **Understanding machine learning: From theory to algorithms**[M]. Cambridge university press, 2014. [book](http://103.47.12.35/bitstream/handle/1/1069/understanding-machine-learning-theory-algorithms.pdf)
-
-
-
-
+1. Duin R P W. **Small sample size generalization**[C]//Proceedings of the Scandinavian Conference on Image Analysis. PROCEEDINGS PUBLISHED BY VARIOUS PUBLISHERS, 1995, 2: 957-964. [paper](http://homepage.tudelft.nl/a9p19/papers/scia_95.sssize.pdf)
+1. Loog M, Duin R P W. **The dipping phenomenon**[C]//Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR). Springer, Berlin, Heidelberg, 2012: 310-317. [paper](https://semisupervised-learning.compute.dtu.dk/wp-content/uploads/2016/08/dipping.pdf)
+1. Hoi S C H, Sahoo D, Lu J, et al. **Online learning: A comprehensive survey**[J]. Neurocomputing, 2021, 459: 249-289. [paper](https://sci-hub.mksa.top/https://doi.org/10.1016/j.neucom.2021.04.112)
+1. Delange M, Aljundi R, Masana M, et al. **A continual learning survey: Defying forgetting in classification tasks**[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [paper](https://homes.esat.kuleuven.be/~konijn/publications/2020/DeLange2.pdf)
+1. Huisman M, Van Rijn J N, Plaat A. **A survey of deep meta-learning**[J]. Artificial Intelligence Review, 2021, 54(6): 4483-4541. [paper](https://ada.liacs.nl/papers/HuiEtAl21.pdf)
+1. Tan C, Sun F, Kong T, et al. **A survey on deep transfer learning**[C]//International conference on artificial neural networks. Springer, Cham, 2018: 270-279. [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-01424-7.pdf)
 
 
 
