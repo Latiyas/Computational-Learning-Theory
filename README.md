@@ -39,6 +39,7 @@
 1. Delange M, Aljundi R, Masana M, et al. **A continual learning survey: Defying forgetting in classification tasks**[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [paper](https://homes.esat.kuleuven.be/~konijn/publications/2020/DeLange2.pdf)
 1. Huisman M, Van Rijn J N, Plaat A. **A survey of deep meta-learning**[J]. Artificial Intelligence Review, 2021, 54(6): 4483-4541. [paper](https://ada.liacs.nl/papers/HuiEtAl21.pdf)
 1. Tan C, Sun F, Kong T, et al. **A survey on deep transfer learning**[C]//International conference on artificial neural networks. Springer, Cham, 2018: 270-279. [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-01424-7.pdf)
+1. Arulkumaran K, Deisenroth M P, Brundage M, et al. Deep reinforcement learning: A brief survey[J]. IEEE Signal Processing Magazine, 2017, 34(6): 26-38. [paper](http://web.khu.ac.kr/~tskim/PatternClass%20LEc%20Note%2026-3%20DRL%20IEEE%20Magazine.pdf)
 
 
 
