@@ -38,12 +38,13 @@
 1. Delange M, Aljundi R, Masana M, et al. **A continual learning survey: Defying forgetting in classification tasks**[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [paper](https://homes.esat.kuleuven.be/~konijn/publications/2020/DeLange2.pdf)
 1. Huisman M, Van Rijn J N, Plaat A. **A survey of deep meta-learning**[J]. Artificial Intelligence Review, 2021, 54(6): 4483-4541. [paper](https://ada.liacs.nl/papers/HuiEtAl21.pdf)
 1. Tan C, Sun F, Kong T, et al. **A survey on deep transfer learning**[C]//International conference on artificial neural networks. Springer, Cham, 2018: 270-279. [paper](https://link.springer.com/content/pdf/10.1007/978-3-030-01424-7.pdf)
-1. Arulkumaran K, Deisenroth M P, Brundage M, et al. Deep reinforcement learning: A brief survey[J]. IEEE Signal Processing Magazine, 2017, 34(6): 26-38. [paper](http://web.khu.ac.kr/~tskim/PatternClass%20LEc%20Note%2026-3%20DRL%20IEEE%20Magazine.pdf)
+1. Arulkumaran K, Deisenroth M P, Brundage M, et al. **Deep reinforcement learning: A brief survey**[J]. IEEE Signal Processing Magazine, 2017, 34(6): 26-38. [paper](http://web.khu.ac.kr/~tskim/PatternClass%20LEc%20Note%2026-3%20DRL%20IEEE%20Magazine.pdf)
 1. LeCun Y, Bottou L, Bengio Y, et al. **Gradient-based learning applied to document recognition**[J]. Proceedings of the IEEE, 1998, 86(11): 2278-2324. [paper](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
-
-
-
-
-
-
-
+1. Simonyan K, Zisserman A. **Very deep convolutional networks for large-scale image recognition**[J]. arXiv preprint arXiv:1409.1556, 2014. [paper](https://cdn-sv1.deepsense.ai/wp-content/uploads/2017/08/1409.1556-3.pdf)
+1. He K, Zhang X, Ren S, et al. **Deep residual learning for image recognition**[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778. [paper](https://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Deep-Residual-Learning-for-Image-Recognition.pdf)
+1. Koolen W M, Grünwald P, Van Erven T. **Combining adversarial guarantees and stochastic fast rates in online learning**[J]. Advances in Neural Information Processing Systems, 2016, 29. [paper](https://www.researchgate.net/profile/Peter-Gruenwald/publication/303409477_Combining_Adversarial_Guarantees_and_Stochastic_Fast_Rates_in_Online_Learning/links/591dea30a6fdcc233fcead50/Combining-Adversarial-Guarantees-and-Stochastic-Fast-Rates-in-Online-Learning.pdf)
+1. Vaswani A, Shazeer N, Parmar N, et al. **Attention is all you need**[J]. Advances in neural information processing systems, 2017, 30. [paper](https://static.aminer.cn/upload/pdf/868/768/1297/599c7987601a182cd2648373.pdf)
+1. Devlin J, Chang M W, Lee K, et al. **Bert: Pre-training of deep bidirectional transformers for language understanding**[J]. arXiv preprint arXiv:1810.04805, 2018. [paper](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrhhzxlCL6yTht2BRmH9atgvKFxHsxQ)
+1. Davis S E, Lasko T A, Chen G, et al. **Calibration drift in regression and machine learning models for acute kidney injury**[J]. Journal of the American Medical Informatics Association, 2017, 24(6): 1052-1061. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080675/)
+1. Darlow L N, Crowley E J, Antoniou A, et al. **Cinic-10 is not imagenet or cifar-10**[J]. arXiv preprint arXiv:1810.03505, 2018. [paper](https://arxiv.org/pdf/1810.03505.pdf)
+1. Belkin M, Hsu D, Ma S, et al. **Reconciling modern machine-learning practice and the classical bias–variance trade-off**[J]. Proceedings of the National Academy of Sciences, 2019, 116(32): 15849-15854. [paper](https://arxiv.org/pdf/1812.11118.pdf)
