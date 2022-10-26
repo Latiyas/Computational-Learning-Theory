@@ -53,3 +53,5 @@
 1. Bousquet O J, Daniely A, Kaplan H, et al. **Monotone Learning**[C]//Conference on Learning Theory. PMLR, 2022: 842-866. [paper](https://proceedings.mlr.press/v178/bousquet22a/bousquet22a.pdf)
 1. Robins A. **Catastrophic forgetting, rehearsal and pseudorehearsal**[J]. Connection Science, 1995, 7(2): 123-146. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.3078&rep=rep1&type=pdf)
 1. Shin H, Lee J K, Kim J, et al. **Continual learning with deep generative replay**[J]. Advances in neural information processing systems, 2017, 30. [paper](https://proceedings.neurips.cc/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf)
+1. Van de Ven G M, Tolias A S. **Three scenarios for continual learning**[J]. arXiv preprint arXiv:1904.07734, 2019. [paper](https://arxiv.org/pdf/1904.07734.pdf)
+1. Zhou Z H. **Open-environment machine learning**[J]. National Science Review, 2022, 9(8): nwac123. [paper](https://academic.oup.com/nsr/article-pdf/9/8/nwac123/45472108/nwac123.pdf)
