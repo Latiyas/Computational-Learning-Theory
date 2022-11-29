@@ -55,3 +55,4 @@
 1. Shin H, Lee J K, Kim J, et al. **Continual learning with deep generative replay**[J]. Advances in neural information processing systems, 2017, 30. [paper](https://proceedings.neurips.cc/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf)
 1. Van de Ven G M, Tolias A S. **Three scenarios for continual learning**[J]. arXiv preprint arXiv:1904.07734, 2019. [paper](https://arxiv.org/pdf/1904.07734.pdf)
 1. Zhou Z H. **Open-environment machine learning**[J]. National Science Review, 2022, 9(8): nwac123. [paper](https://academic.oup.com/nsr/article-pdf/9/8/nwac123/45472108/nwac123.pdf)
+1. Huynh E. **Vision Transformers in 2022: An Update on Tiny ImageNet**[J]. arXiv preprint arXiv:2205.10660, 2022. [paper](https://arxiv.org/pdf/2205.10660.pdf)
