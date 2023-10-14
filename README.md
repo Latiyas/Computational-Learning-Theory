@@ -55,3 +55,5 @@
 1. Van de Ven G M, Tolias A S. **Three scenarios for continual learning**[J]. arXiv preprint arXiv:1904.07734, 2019. [paper](https://arxiv.org/pdf/1904.07734.pdf)
 1. Zhou Z H. **Open-environment machine learning**[J]. National Science Review, 2022, 9(8): nwac123. [paper](https://academic.oup.com/nsr/article-pdf/9/8/nwac123/45472108/nwac123.pdf)
 1. Huynh E. **Vision Transformers in 2022: An Update on Tiny ImageNet**[J]. arXiv preprint arXiv:2205.10660, 2022. [paper](https://arxiv.org/pdf/2205.10660.pdf)
+1. Natarajan B K, Tadepalli P. **Two new frameworks for learning**[M]//Machine Learning Proceedings 1988. Morgan Kaufmann, 1988: 402-415. [paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0c8227701c48ffa12a50d88321454bb73c8f101b)
+1. Natarajan B K. **On learning sets and functions**[J]. Machine Learning, 1989, 4: 67-97. [paper](https://link.springer.com/content/pdf/10.1007/BF00114804.pdf)
